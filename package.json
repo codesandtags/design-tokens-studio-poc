@@ -1,0 +1,16 @@
+{
+  "name": "design-tokens-studio-poc",
+  "version": "1.0.0",
+  "description": "This PoC is because I was inspired by my friend Jyrmid, so I wanted to create the PoC by myself and also share a functional approach with the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx json-server v1/tokens.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
